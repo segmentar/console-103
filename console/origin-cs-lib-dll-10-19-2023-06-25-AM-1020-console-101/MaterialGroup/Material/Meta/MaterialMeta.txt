@@ -1,0 +1,17 @@
+sequence Material : no unused namespace(s), meta, link, type
+
+	>Compress
+	<<MaterialCompress.cs
+
+	>CompressRaw
+	<<MaterialCompressRaw.cs
+
+	>InformationRaw
+	<<MaterialInformationRaw.cs
+
+	>MaterialObject
+	<<MaterialObject.cs
+
+	<Material.cs
+
+end sequence
